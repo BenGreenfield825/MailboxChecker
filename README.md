@@ -23,3 +23,6 @@ The transmitter is paired with a "30,000mah" battery bank (cheap bank from Amazo
 - This project was designed to be used with a ***plastic*** mailbox. A metal mailbox would normally block the radio signal trying to be sent from inside the mailbox
     - To make this work with a metal mailbox, an extension might be able to be used and have the antenna on the outside of the box
 - The transmitter goes through a "power cycle," where the device alternates between reading light values, going into sleep, and then sending a stayalive signal to keep the battery on. This is done to save on power without having to completely be put in sleep
+
+## Author
+Ben Greenfield
